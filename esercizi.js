@@ -17,4 +17,9 @@
 
 // Code Question 4:
 // Il metodo migliore è lo spread operator, poichè copia anche le funzioni.
-// Il metodo migliore per clonare restaurant è structuredClone perchè copia anche oggetti complessi come Date
+// Il metodo migliore per clonare restaurant è structuredClone perchè copia anche oggetti complessi come Date.
+
+// Code Question 5:
+// 1 Chef's Hyur
+// 2 Hyur's II
+// 5 oggetti.
