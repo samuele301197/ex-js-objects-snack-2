@@ -23,3 +23,6 @@
 // 1 Chef's Hyur
 // 2 Hyur's II
 // 5 oggetti.
+
+// Code Question 6:
+// Probabilmente lo spread operator, andando a modificare manualmente i valori inseriti negli oggetti annidati. Perchè lo spread operator copia anche le funzioni, ma non riesce ad andare in profondità negli oggetti annidati.
